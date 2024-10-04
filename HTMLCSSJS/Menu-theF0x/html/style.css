@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+figure {
+  height: 300px;
+  width: 300px;
+  padding: 40px;
+}
+
+div {
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+ul {
+  padding: 15px;
+  border: 1px solid grey;
+  border-radius: 25px;
+}
+
+span {
+  height: 20px;
+}
+
+#name {
+   float:left; 
+}
+
+#description {
+   float:left; 
+   clear: left;
+}
+
+.big {
+  display: flex;
+}
+
+.caption {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.invisible {
+  display: none;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}

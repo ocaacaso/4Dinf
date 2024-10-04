@@ -1,0 +1,7 @@
+Filippo;Fossa;coma;RED
+Leonardo;Panucci;ferita da taglio alla testa;RED
+Gabriele;Fiorucci;appendicite;YELLOW
+Francesco;Friuli;gambe rotte;YELLOW
+Daniel;Kapllani;slogatura;GREEN
+Annalisa;Ceccobelli;stupida;GREEN
+Altan;Yurchyk;merda;GREEN

@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+td {
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.btnSelected {
+  font-weight: bold;
+  color: red;
+}

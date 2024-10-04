@@ -1,0 +1,1 @@
+Nel file functions.c completare le funzioni secondo gli esercizi 7, 8, 9 e 10 dell'eserciziario sugli array (sezione Array e operatori booleani).

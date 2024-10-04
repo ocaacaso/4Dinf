@@ -1,0 +1,8 @@
+public Car(String name, Passenger ps1, Passenger ps2, Passenger ps3, Passenger ps4, Passenger ps5) {
+  this.name = this.name + name;
+  ps[0] = ps1;
+  ps[1] = ps2;
+  ps[2] = ps3;
+  ps[3] = ps4;
+  ps[4] = ps5;
+}

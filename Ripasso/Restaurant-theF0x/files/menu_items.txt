@@ -1,0 +1,15 @@
+Spaghetti Carbonara;Classic Italian pasta with eggs, cheese, and pancetta;12.99
+Grilled Chicken Sandwich;Tender grilled chicken breast on a bun with lettuce and tomato;8.99
+Margherita Pizza;Traditional pizza with tomato sauce, mozzarella, and basil;10.49
+Caesar Salad;Crisp romaine lettuce, croutons, and Caesar dressing;7.49
+Beef Burger;Juicy beef patty with lettuce, cheese, and pickles on a bun;9.99
+Sushi Platter;Assorted sushi rolls with soy sauce and wasabi;14.99
+Vegetable Stir-Fry;Fresh vegetables stir-fried with a choice of sauce;11.49
+Shrimp Scampi;Sautéed shrimp in garlic, butter, and white wine sauce;13.99
+Tofu Curry;Spicy curry with tofu, vegetables, and rice;12.99
+Chocolate Cake;Decadent chocolate cake with a scoop of vanilla ice cream;6.99
+Lobster Bisque;Creamy lobster soup with sherry and herbs;9.49
+Spinach and Feta Quiche;Flaky pastry filled with spinach, feta cheese, and eggs;10.99
+Grilled Salmon;Fresh salmon fillet with a lemon-dill sauce;15.49
+Tandoori Chicken;Marinated chicken cooked in a tandoor oven;12.49
+Mushroom Risotto;Creamy risotto with mushrooms and parmesan cheese;11.99

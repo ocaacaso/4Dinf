@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.bottoni {
+  display: flex;
+  padding: 25px;
+  justify-content: center;
+}
+
